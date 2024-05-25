@@ -1,1 +1,1 @@
-leave-lunch.gl.at.ply.gg:49765
+tcp://0.tcp.ap.ngrok.io:18849
